@@ -1,0 +1,15 @@
+########### Email ###########
+    ana.info1999@gmail.com
+########### Clave ###########
+    123456789
+-------------------------------------
+Usuario 2
+########### Email ###########
+mrdjgc0312@gmail.com
+########### Clave ###########
+dalember
+---------------------------------------
+##########Tigres##########
+Evitar la eliminacion la BD junto con sus tablas y campos.
+Evitar que modiciquen el nombre de la BD, tanlas y campos.
+Evitar que inserten nuevos campos y tablas a la BD.
